@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# выгрузки из приложения
+virtualiot_*.csv
+virtualiot_*.html
+virtualiot_*.json
+.DS_Store
+Thumbs.db
